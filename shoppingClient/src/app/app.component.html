@@ -1,0 +1,49 @@
+<div class="container">
+  <div class="jumbotron">
+    <h2>
+      DevNot Online Shopping
+    </h2>
+  </div>
+  <table class="table">
+    <tr>
+      <td>
+        <label for="txtName">Product Name:</label>
+      </td>
+      <td>
+        <input type="text" id="txtName" [(ngModel)]="data.Name">
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <label for="txtQuantity">Quantity:</label>
+      </td>
+      <td>
+        <input type="text" id="txtQuantity" [(ngModel)]="data.Quantity">
+        <input type="button" value="Buy" (click)="save()">
+      </td>
+    </tr>
+  </table>
+  <hr>
+  <table class="table" *ngIf="dataList.length>0">
+    <thead>
+      <tr>
+        <th>
+          Product Name
+        </th>
+        <th>
+          Quantity
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let item of dataList">
+        <td>
+          {{item.Name}}
+        </td>
+        <td>
+          {{item.Quantity}}
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>

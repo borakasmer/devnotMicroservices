@@ -1,0 +1,29 @@
+<div class="container">
+  <div class="jumbotron">
+    <h2>
+      DevNot Admin Monitoring
+    </h2>
+  </div>
+  <table class="table" *ngIf="dataList.length>0">
+    <thead>
+      <tr>
+        <th>
+          Product Name
+        </th>
+        <th>
+          Quantity
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let item of dataList">
+        <td>
+          {{item.name}}
+        </td>
+        <td>
+          {{item.quantity}}
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>

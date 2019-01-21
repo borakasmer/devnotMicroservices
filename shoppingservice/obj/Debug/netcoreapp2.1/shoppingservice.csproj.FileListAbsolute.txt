@@ -1,0 +1,14 @@
+/Users/borakasmer/devnot/shoppingservice/bin/Debug/netcoreapp2.1/shoppingservice.deps.json
+/Users/borakasmer/devnot/shoppingservice/bin/Debug/netcoreapp2.1/shoppingservice.runtimeconfig.json
+/Users/borakasmer/devnot/shoppingservice/bin/Debug/netcoreapp2.1/shoppingservice.runtimeconfig.dev.json
+/Users/borakasmer/devnot/shoppingservice/bin/Debug/netcoreapp2.1/shoppingservice.dll
+/Users/borakasmer/devnot/shoppingservice/bin/Debug/netcoreapp2.1/shoppingservice.pdb
+/Users/borakasmer/devnot/shoppingservice/obj/Debug/netcoreapp2.1/shoppingservice.csprojAssemblyReference.cache
+/Users/borakasmer/devnot/shoppingservice/obj/Debug/netcoreapp2.1/shoppingservice.csproj.CoreCompileInputs.cache
+/Users/borakasmer/devnot/shoppingservice/obj/Debug/netcoreapp2.1/shoppingservice.RazorAssemblyInfo.cache
+/Users/borakasmer/devnot/shoppingservice/obj/Debug/netcoreapp2.1/shoppingservice.RazorAssemblyInfo.cs
+/Users/borakasmer/devnot/shoppingservice/obj/Debug/netcoreapp2.1/shoppingservice.AssemblyInfoInputs.cache
+/Users/borakasmer/devnot/shoppingservice/obj/Debug/netcoreapp2.1/shoppingservice.AssemblyInfo.cs
+/Users/borakasmer/devnot/shoppingservice/obj/Debug/netcoreapp2.1/shoppingservice.RazorTargetAssemblyInfo.cache
+/Users/borakasmer/devnot/shoppingservice/obj/Debug/netcoreapp2.1/shoppingservice.dll
+/Users/borakasmer/devnot/shoppingservice/obj/Debug/netcoreapp2.1/shoppingservice.pdb

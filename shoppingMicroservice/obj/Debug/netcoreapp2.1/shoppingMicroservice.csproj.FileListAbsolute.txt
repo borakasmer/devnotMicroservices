@@ -1,0 +1,11 @@
+/Users/borakasmer/devnot/shoppingMicroservice/bin/Debug/netcoreapp2.1/shoppingMicroservice.deps.json
+/Users/borakasmer/devnot/shoppingMicroservice/bin/Debug/netcoreapp2.1/shoppingMicroservice.runtimeconfig.json
+/Users/borakasmer/devnot/shoppingMicroservice/bin/Debug/netcoreapp2.1/shoppingMicroservice.runtimeconfig.dev.json
+/Users/borakasmer/devnot/shoppingMicroservice/bin/Debug/netcoreapp2.1/shoppingMicroservice.dll
+/Users/borakasmer/devnot/shoppingMicroservice/bin/Debug/netcoreapp2.1/shoppingMicroservice.pdb
+/Users/borakasmer/devnot/shoppingMicroservice/obj/Debug/netcoreapp2.1/shoppingMicroservice.csprojAssemblyReference.cache
+/Users/borakasmer/devnot/shoppingMicroservice/obj/Debug/netcoreapp2.1/shoppingMicroservice.csproj.CoreCompileInputs.cache
+/Users/borakasmer/devnot/shoppingMicroservice/obj/Debug/netcoreapp2.1/shoppingMicroservice.AssemblyInfoInputs.cache
+/Users/borakasmer/devnot/shoppingMicroservice/obj/Debug/netcoreapp2.1/shoppingMicroservice.AssemblyInfo.cs
+/Users/borakasmer/devnot/shoppingMicroservice/obj/Debug/netcoreapp2.1/shoppingMicroservice.dll
+/Users/borakasmer/devnot/shoppingMicroservice/obj/Debug/netcoreapp2.1/shoppingMicroservice.pdb
